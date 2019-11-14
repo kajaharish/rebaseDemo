@@ -1,2 +1,3 @@
 1st line added from git 
 2nd line
+3rd line from git master branch
