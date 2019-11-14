@@ -1,3 +1,5 @@
 1st line added from git 
 2nd line
 3rd line from git master branch
+3rd line added from git into the featureXsome text
+again some text
